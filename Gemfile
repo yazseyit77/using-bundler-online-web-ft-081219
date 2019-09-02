@@ -6,6 +6,5 @@ gem 'octokit', '~> 2.0'
 # gem 'AwesomePrint', git: 'https://github.com/rack/rack'
 
 group :development do
-gem "pry"
 gem "rspec"
 end
