@@ -12,3 +12,7 @@ end
 group :test do
   gem "rspec"
 end
+
+group :operations do
+  gem 'awesome_print'
+end
