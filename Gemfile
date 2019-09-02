@@ -7,5 +7,5 @@ gem 'AwesomePrint', git: 'https://github.com/rack/rack'
 
 group :development do
 gem "pry"
-gem "rspec" 
+gem "rspec"
 end
